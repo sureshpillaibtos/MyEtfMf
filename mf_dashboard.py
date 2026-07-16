@@ -17,22 +17,36 @@ mf_dict = {
     "Flexi Cap / Large & Mid Cap": {
         "Parag Parikh Flexi Cap Direct-Growth": "122639",
         "Quant Active Fund Direct-Growth": "120823",
-        "HDFC Large and Mid Cap Direct-Growth": "130498"
+        "HDFC Large and Mid Cap Direct-Growth": "130498",
+        "Mirae Asset Large & Midcap Fund - Direct Growth": "118834",
+        "JM Flexi Cap Fund - Direct Growth": "125494",
+        "ICICI Prudential Large & Mid Cap Fund - Direct Growth": "120503"
     },
     "Small & Mid Cap (Aggressive Growth)": {
         "Nippon India Small Cap Direct-Growth": "119598",
         "Quant Small Cap Direct-Growth": "120828",
         "HDFC Mid-Cap Opportunities Direct-Growth": "118989",
-        "Motilal Oswal Midcap Direct-Growth": "127042"
+        "Motilal Oswal Midcap Direct-Growth": "127042",
+        "Invesco India Mid Cap Fund - Direct Growth": "120503",
+        "Bandhan Small Cap Fund - Direct Growth": "125354"
     },
     "Large Cap / Passive Index": {
         "UTI Nifty 50 Index Fund Direct-Growth": "120716",
-        "ICICI Prudential Bluechip Direct-Growth": "120032"
+        "ICICI Prudential Bluechip Direct-Growth": "120032",
+        "HDFC Index Fund - Nifty 50 Plan - Direct Growth":	"119552",
+        "SBI Nifty Index Fund - Direct Growth":	"119827",
+        "ICICI Prudential Nifty 50 Index Fund - Direct Growth":	"120620",
+        "Canara Robeco Large Cap Fund - Direct Growth":	"118269"
     },
     "Hybrid & Sectoral / International": {
         "HDFC Balanced Advantage Direct-Growth": "118968",
-        "ICICI Prudential Equity & Debt Direct-Growth": "120018",
-        "Tata Digital India Fund Direct-Growth": "135797"
+        "ICICI Prudential Equity & Debt Direct-Growth": "120251",
+        "Tata Digital India Fund Direct-Growth": "135800",
+        "SBI Equity Hybrid Fund - Direct Growth":	"119609",
+        "ICICI Prudential Technology Fund - Direct Growth":	"120594",
+        "Motilal Oswal Nasdaq 100 FoF - Direct Growth":	"145552",
+        "Mirae Asset NYSE FANG+ ETF FoF - Direct Growth":	"148928"
+
     }
 }
 
